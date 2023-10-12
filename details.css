@@ -1,0 +1,139 @@
+div>p{
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+    font-size: 2.4em;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 0.1em;
+    text-align: center;
+    text-shadow:  4px 2px 2px rgb(35, 184, 114);
+    border: 30px solid;
+    border-image: url('/static/bod.png') 200 round;
+    background-image: url(/static/500.jpg);
+}
+
+dl>dt{
+    margin: 0px;
+    text-transform: uppercase;
+    border: 3px solid rgb(65, 14, 56);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to  top right, #5ae2c7 10%, #2fd1d1 30%, rgb(252, 203, 112) 60%, rgb(235, 224, 73) 20% );
+
+    padding: 0; 
+    font-size: 1.2em;
+    text-align: center;
+}
+dl>dd{
+    text-align: left;
+    font-size: 1em ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.para1{
+    text-align: left;
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: #f7c2af;
+    
+    
+}
+.para2{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(218, 250, 130);
+}
+.para3{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(155, 248, 147);
+}
+.para4{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(174, 143, 248);
+}
+.para5{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(161, 238, 243);
+}
+.para6{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(248, 197, 205);
+}
+.para7{
+    font-size: 1em;
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(124, 202, 159);
+}
+.para8{
+    font-size: 1em;
+    margin: 0px;
+    padding: 00px;
+    text-transform: capitalize;
+    background-color: rgb(145, 119, 119);
+    text-align: left;
+}
+
+#po{
+    background-color: khaki;
+    text-align: start;
+}
+a:visited{
+    color: chocolate;
+    
+}
+a:link{
+    color: rgb(7, 3, 230)
+    
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: fuchsia;
+}
+a{ 
+    float: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 5px solid rgba(14, 5, 5, 0.371);
+    text-indent: 10px;
+    padding: 0px;
+    margin: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius:4px ;
+    text-align: center;
+    background-color: rgb(226, 245, 121);
+    position: relative;
+    top: -50px;   
+}
+li{
+    display:inline;
+}
+.hello{
+    width: 65px;
+    position: relative;
+    top: -85px;
+    left: 40px;
+}
+
+
